@@ -1601,6 +1601,7 @@ h2 {
     font-size: 30px
 }
 
+
 .h3,
 h3 {
     font-size: 24px
@@ -1658,7 +1659,7 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
 }
 
 .text-justify {
@@ -2066,7 +2067,7 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
 }
 
 .col-xs-1,
